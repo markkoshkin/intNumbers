@@ -1,0 +1,6 @@
+c:\users\mark\documents\visual studio 2012\Projects\intNumbers\intNumbers\bin\Debug\intNumbers.exe.config
+c:\users\mark\documents\visual studio 2012\Projects\intNumbers\intNumbers\bin\Debug\intNumbers.exe
+c:\users\mark\documents\visual studio 2012\Projects\intNumbers\intNumbers\bin\Debug\intNumbers.pdb
+c:\users\mark\documents\visual studio 2012\Projects\intNumbers\intNumbers\obj\Debug\intNumbers.csprojResolveAssemblyReference.cache
+c:\users\mark\documents\visual studio 2012\Projects\intNumbers\intNumbers\obj\Debug\intNumbers.exe
+c:\users\mark\documents\visual studio 2012\Projects\intNumbers\intNumbers\obj\Debug\intNumbers.pdb
